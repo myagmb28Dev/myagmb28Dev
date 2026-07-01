@@ -2,9 +2,6 @@
 Like what i used to be, in my way.
 <br/>
 
-## 🎮 Social Media
-[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Myagmb28)
-
 ## 🛠️ Ide I'm Using
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
 [![Zed](https://img.shields.io/badge/Zed-000000?style=for-the-badge&logo=zedindustries&logoColor=white)](https://zed.dev/)
