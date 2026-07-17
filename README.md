@@ -1,5 +1,5 @@
 ## 📒 About Me
-Like what i used to be, in my way.
+Like what i used to, in my way.
 <br/>
 
 ## 🛠️ Ide I'm Using
